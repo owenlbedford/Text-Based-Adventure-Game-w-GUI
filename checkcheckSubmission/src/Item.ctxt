@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Item\ class\ allows\ for\ objects\ of\ the\ type\ Item\ to\ be\ created\ which\ have\ asssociated\ instance\ variables\ such\ as\ attack\ and\ also\ associated\ instance\ methods\ which\ is\ used\ throughout\ the\ program\r\n\ @author\ Owen\ Bedford\r\n\ @studentid\ 200348014\r\n\ @version\ 1\r\n
+comment1.params=itemid
+comment1.target=Item(int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=itemid
+comment3.target=void\ setItemDetails(int)
+comment4.params=
+comment4.target=int\ getItemID()
+comment5.params=
+comment5.target=java.lang.String\ getItemName()
+comment6.params=
+comment6.target=int\ getItemSellPrice()
+comment7.params=
+comment7.target=int\ getAttack()
+comment8.params=
+comment8.target=java.lang.String\ getItemMagicType()
+numComments=9

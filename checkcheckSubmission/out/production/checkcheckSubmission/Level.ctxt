@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Level
+comment1.params=index
+comment1.target=Level(int)
+comment2.params=mainPanel
+comment2.target=void\ runLevel(javax.swing.JPanel)
+comment3.params=
+comment3.target=int\ getIndex()
+numComments=4

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=PlayerTemplate
+comment0.text=\r\n\ PlayerTemplate\ class\ is\ a\ super\ class\ which\ contains\ getters\ and\ setters\r\n\ for\ instance\ variables\ such\ as\ adjusting\ health\ when\ damage\ is\ taken\r\n\ @author\ (your\ name)\ Owen\ Bedford\r\n\ @studentid\ 200348014\r\n\ @version\ 1\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=health\ attack
+comment1.target=PlayerTemplate(int,\ int)
+comment2.params=jTextArea
+comment2.target=int\ move2(javax.swing.JTextArea)
+comment3.params=attack\ jTextArea
+comment3.target=void\ takeDamage(int,\ javax.swing.JTextArea)
+comment4.params=
+comment4.target=int\ getHealth()
+comment5.params=jTextArea
+comment5.target=int\ getAttack(javax.swing.JTextArea)
+comment6.params=attack
+comment6.target=void\ setAttack(int)
+comment7.params=healthpoint
+comment7.target=void\ incrementHealth(int)
+numComments=8

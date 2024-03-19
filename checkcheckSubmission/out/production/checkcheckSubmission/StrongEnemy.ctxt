@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=StrongEnemy
+comment1.params=health\ attack
+comment1.target=StrongEnemy(int,\ int)
+comment2.params=jTextArea
+comment2.target=int\ moveAttack(javax.swing.JTextArea)
+comment3.params=jTextArea
+comment3.target=int\ getAttack(javax.swing.JTextArea)
+comment4.params=jTextArea
+comment4.target=int\ move2(javax.swing.JTextArea)
+numComments=5

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=health\ attack
+comment1.target=Enemy(int,\ int)
+comment2.params=attack\ jTextArea
+comment2.target=void\ takeDamage(int,\ javax.swing.JTextArea)
+comment3.params=jTextArea
+comment3.target=int\ moveAttack(javax.swing.JTextArea)
+comment4.params=jTextArea
+comment4.target=int\ move2(javax.swing.JTextArea)
+comment5.params=jTextArea
+comment5.target=int\ move3(javax.swing.JTextArea)
+comment6.params=
+comment6.target=int\ getDropCurrency()
+comment7.params=
+comment7.target=double\ getLuckStat()
+numComments=8
